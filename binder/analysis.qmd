@@ -3,7 +3,7 @@ title: "실험용 분석"
 ---
 
 ::: {.bindernav}
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leejoohyunn/binder/main?urlpath=tree/analysis.qmd)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leejoohyunn/binder/master?urlpath=lab/tree/binder/analysis.qmd)
 :::
 
 # 1장. 데이터 로드 예시
