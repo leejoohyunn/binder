@@ -6,6 +6,8 @@ dependencies:
   - python=3.10
   - pandas
   - matplotlib
-  # pip 아래 quarto-bind-py 항목을 제거합니다.
+  # pip 자체를 하나의 항목으로 추가
+  - pip
+  # pip 아래에 설치할 패키지 리스트
   - pip:
-      # - quarto-bind-py   ← 이 줄을 지워주세요
+    - some-other-package
