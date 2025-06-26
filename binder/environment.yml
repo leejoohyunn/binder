@@ -1,0 +1,10 @@
+name: binder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10               # 최소 Python 버전
+  - pandas                    # 예시 패키지
+  - matplotlib                # 예시 패키지
+  - pip
+  - pip:
+      - quarto-bind-py        # Quarto Python 실행용 (선택)

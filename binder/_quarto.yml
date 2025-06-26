@@ -1,0 +1,8 @@
+project:
+  type: book       # 또는 website, single-document 등
+format:
+  html:
+    theme: default
+    code-tools: true  # 코드 실행 패널 활성화
+
+# (선택) GitHub 페이지 배포용 설정 등 추가 가능
