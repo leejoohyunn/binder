@@ -1,1 +1,2 @@
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YourUser/your-project/main?urlpath=tree/analysis.qmd)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leejoohyunn/binder/master?urlpath=lab/tree/binder/analysis.qmd
+)
